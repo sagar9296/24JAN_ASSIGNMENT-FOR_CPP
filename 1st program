@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+class Book{
+string title,author,ISBN;
+double price;
+int stock;
+};
+int main(){
+Book b;
+}
